@@ -22,4 +22,13 @@ Este portfólio foi criado para apresentar meus projetos, interesses profissiona
 - Banco de dados 🗄️
 - Computação física 💡
 - C++ 🖥️
+## 📩 Contato
+Caso queira entrar em contato, você pode me enviar um e-mail.
+
+✉️ **Email:** [danduleba@gmail.com](danduleba@gmail.com)
+
+## 🔍 Meu LinkedIn
+Conecte-se comigo para acompanhar meus projetos, interações profissionais e novidades sobre tecnologia.
+
+[Visitar meu LinkedIn](https://linkedin.com/in/danilo-duleba-432ba81a9)
 
